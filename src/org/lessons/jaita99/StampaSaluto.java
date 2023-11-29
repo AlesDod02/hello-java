@@ -1,4 +1,4 @@
-package org.generation.jaita99;
+package org.lessons.jaita99;
 
 public class StampaSaluto {
     private static String helloJaita99;
