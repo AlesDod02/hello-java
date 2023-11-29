@@ -1,6 +1,6 @@
 package org.generation.jaita99;
 
-public class HelloJava {
+public class StampaSaluto {
     private static String helloJaita99;
 
     public static void main(String[] args) {
